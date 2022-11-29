@@ -1,0 +1,14 @@
+.category {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.catagory-menu {
+    margin: 5px 0 5px 0;
+}
+.ui.dropdown:not(.button)>.default.text {
+    color: black !important;
+}

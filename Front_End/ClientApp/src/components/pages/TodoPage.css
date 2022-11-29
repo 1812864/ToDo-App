@@ -1,0 +1,36 @@
+.table > :not(:first-child) {
+    border: none ;
+}
+.fle-table-cates{
+    overflow: auto;
+    height: 60vh;
+    width: 20vw;
+    font-size: 20px;
+   text-align: center;
+}
+.fle-table-ele{
+    width: 40vw;
+    font-size: 20px;
+    height: 60vh;
+    overflow: auto;
+   text-align: center;
+
+}
+.fle-table table.ui.table{
+    margin: 0;
+}
+.container-table {
+    display: flex;
+    margin: 10px;
+}
+
+a.item.close{
+    width: 5%;
+}
+
+.item {
+    width: 95%;
+}
+
+
+

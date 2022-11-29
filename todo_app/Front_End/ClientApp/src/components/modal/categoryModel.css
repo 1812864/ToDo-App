@@ -1,0 +1,31 @@
+.ui.fluid.selection.scrolling.dropdown{
+    text-align: center;
+    width: 30vw;
+    font-size: 18px;
+    background: #ABDD93;
+    border: 1px solid black;
+}
+.ui.table tr td{
+    text-align: center;
+}
+
+.table-cell-custom {
+    display: flex;
+    align-items: center;
+}
+
+.category .table_cates .table-cell-custom tr {
+    border: none;
+    width: 90%;
+    margin: 0;
+    padding: 0;
+}
+
+.category .table_cates .table-cell-custom i.icon {
+    height: 100%;
+    width: 10%;
+    border-left: 1px solid rgba(34,36,38,.15);
+}
+.table > :not(caption) > * > *{
+    border: none;
+}

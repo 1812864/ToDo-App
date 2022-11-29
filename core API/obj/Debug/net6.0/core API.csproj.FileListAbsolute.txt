@@ -1,0 +1,62 @@
+D:\todo_app\core API\bin\Debug\net6.0\appsettings.Development.json
+D:\todo_app\core API\bin\Debug\net6.0\appsettings.json
+D:\todo_app\core API\bin\Debug\net6.0\core API.exe
+D:\todo_app\core API\bin\Debug\net6.0\core API.deps.json
+D:\todo_app\core API\bin\Debug\net6.0\core API.runtimeconfig.json
+D:\todo_app\core API\bin\Debug\net6.0\core API.dll
+D:\todo_app\core API\bin\Debug\net6.0\core API.pdb
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\todo_app\core API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\todo_app\core API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\todo_app\core API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\todo_app\core API\obj\Debug\net6.0\core API.csproj.AssemblyReference.cache
+D:\todo_app\core API\obj\Debug\net6.0\core API.GeneratedMSBuildEditorConfig.editorconfig
+D:\todo_app\core API\obj\Debug\net6.0\core API.AssemblyInfoInputs.cache
+D:\todo_app\core API\obj\Debug\net6.0\core API.AssemblyInfo.cs
+D:\todo_app\core API\obj\Debug\net6.0\core API.csproj.CoreCompileInputs.cache
+D:\todo_app\core API\obj\Debug\net6.0\core API.MvcApplicationPartsAssemblyInfo.cs
+D:\todo_app\core API\obj\Debug\net6.0\core API.MvcApplicationPartsAssemblyInfo.cache
+D:\todo_app\core API\obj\Debug\net6.0\staticwebassets.build.json
+D:\todo_app\core API\obj\Debug\net6.0\staticwebassets.development.json
+D:\todo_app\core API\obj\Debug\net6.0\scopedcss\bundle\core API.styles.css
+D:\todo_app\core API\obj\Debug\net6.0\core API.csproj.CopyComplete
+D:\todo_app\core API\obj\Debug\net6.0\core API.dll
+D:\todo_app\core API\obj\Debug\net6.0\refint\core API.dll
+D:\todo_app\core API\obj\Debug\net6.0\core API.pdb
+D:\todo_app\core API\obj\Debug\net6.0\core API.genruntimeconfig.cache
+D:\todo_app\core API\obj\Debug\net6.0\ref\core API.dll
+D:\todo_app\core API\bin\Debug\net6.0\Humanizer.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\todo_app\core API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\todo_app\core API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\todo_app\core API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\todo_app\core API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\todo_app\core API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\todo_app\core API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\todo_app\core API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\todo_app\core API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\todo_app\core API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

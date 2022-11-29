@@ -1,0 +1,68 @@
+.ui.button{
+    cursor: pointer;
+    background: none;
+}
+.ui.button:hover{
+    background: #ABDD93;
+}
+.ui.scrolling.modal.transition.visible.active{
+    margin: 0;
+    position: relative;
+    padding: 0;
+    width: 30vw;
+    height: 100vh;
+}
+.ui.page.modals.dimmer.transition.visible.active{
+    display: flex !important;
+    flex-direction: row-reverse;
+    margin: 0;
+    padding: 0;
+}
+.table1{
+    margin-top: 40px;
+}
+.table1{
+    width: 70vw;
+    height: 84.5vh;
+    overflow: auto;
+    /* border: 2px solid #529432; */
+}
+
+.table1 .table_Header{
+    position: sticky;
+    top: 0;
+    background: #ABDD93;
+    text-transform: uppercase ;
+    font-weight: bold;
+    text-align: center;
+}
+
+table.ui.celled.table {
+    border: 2px solid #a8c599;
+}
+
+table.ui.celled.table td{
+    border: 1px solid #a8c599;
+}
+
+.table2 tr{
+    text-align: center;
+}
+
+.table2 button{
+    width: 100%;
+    height: 100%;
+}
+
+td {
+    font-size: 18px;
+}
+
+button.ui.button{
+    font-size: 18px;
+}
+a.ui.button{
+    font-size: 18px;
+}
+
+

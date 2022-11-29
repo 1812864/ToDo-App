@@ -1,0 +1,41 @@
+.ui.fluid.selection.scrolling.dropdown{
+    text-align: center;
+    width: 30vw;
+    font-size: 18px;
+    background: #ABDD93;
+    border: 1px solid black;
+}
+.ui.table tr td{
+    text-align: center;
+}
+
+.table-cell-custom {
+    display: flex;
+    align-items: center;
+}
+.table-cell-custom .ui.button{
+    margin: 0;
+}
+
+.category .table_cates .table-cell-custom tr {
+    border: none;
+    width: 90%;
+    margin: 0;
+    padding: 0;
+}
+
+.category .table_cates .table-cell-custom i.icon {
+    height: 100%;
+    width: 10%;
+    cursor: pointer;
+}
+.table > :not(caption) > * > *{
+    border: none;
+}
+.dopdown-category{
+    margin-top: 15px;
+}
+button.ui.button.btn-delete:hover {
+    background-color: red !important;
+    color: white;
+}
